@@ -7,3 +7,4 @@ C:\Users\fpoly\Desktop\PH01993_BuiDuyHung_BaiTTN\WindowsApplication1\WindowsAppl
 C:\Users\fpoly\Desktop\PH01993_BuiDuyHung_BaiTTN\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
 C:\Users\fpoly\Desktop\PH01993_BuiDuyHung_BaiTTN\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
 C:\Users\fpoly\Desktop\PH01993_BuiDuyHung_BaiTTN\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\fpoly\Desktop\PH01993_BuiDuyHung_BaiTTN\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
